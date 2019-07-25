@@ -1,0 +1,28 @@
+{
+    "characters": [
+    {
+        "id": "1",
+        "name": "Peter Dinklage",
+        "bloodgroup": "B +ve"
+    },
+    {
+        "id": "2",
+        "name": "Lina Heady",
+        "bloodgroup": "O +ve"
+    },
+    {
+        "id": "3",
+        "name": "Emilia Clarke",
+        "bloodgroup": "AB -ve"
+    },
+    {
+        "id": "4",
+        "name": "Kit Harrington",
+        "bloodgroup": "A +ve"
+    },
+    {
+        "id": "5",
+        "name": "Sean Bean",
+        "bloodgroup": "B -ve"
+    }]
+}
